@@ -1,0 +1,74 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		A16652201944C22D007B5853 /* Fractal.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = Fractal.sks; sourceTree = "<group>"; };
+		A16652211944C240007B5853 /* Fractal.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; path = Fractal.fsh; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		A16652191944C213007B5853 = {
+			isa = PBXGroup;
+			children = (
+				A16652211944C240007B5853 /* Fractal.fsh */,
+				A16652201944C22D007B5853 /* Fractal.sks */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		A166521A1944C213007B5853 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = A166521D1944C213007B5853 /* Build configuration list for PBXProject "IBFractal" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = A16652191944C213007B5853;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		A166521E1944C213007B5853 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		A166521F1944C213007B5853 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		A166521D1944C213007B5853 /* Build configuration list for PBXProject "IBFractal" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A166521E1944C213007B5853 /* Debug */,
+				A166521F1944C213007B5853 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = A166521A1944C213007B5853 /* Project object */;
+}
